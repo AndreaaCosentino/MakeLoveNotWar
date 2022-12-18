@@ -1,1 +1,1 @@
-<p align= "center" > ### MAKE LOVE NOT WAR </p>
+<h1 align= "center" > ### MAKE LOVE NOT WAR </h1>
